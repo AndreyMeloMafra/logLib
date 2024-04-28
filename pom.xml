@@ -67,4 +67,11 @@
 		</plugins>
 	</build>
 
+	<distributionManagement>
+		<repository>
+			<id>github</id>
+			<url>https://maven.pkg.github.com/AndreyMeloMafra/logLib</url>
+		</repository>
+	</distributionManagement>
+
 </project>
