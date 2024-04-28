@@ -1,0 +1,3 @@
+com\amm\logLib\dao\ResponseDAO.class
+com\amm\logLib\dao\RequestDAO.class
+com\amm\logLib\wrapper\FilterConfigWrapper.class
